@@ -1,2 +1,2 @@
-# TextVeiwPlaceholder
-textVeiwPlaceholder
+# TextViewPlaceholder
+textViewPlaceholder
